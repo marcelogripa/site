@@ -676,7 +676,7 @@
     },
     "quem.html": {
       "settings": {
-        "meta_descr": "Confira o time da Obladi Comunicação.",
+        "meta_descr": "Confira o time da Obladi Conteúdo.",
         "title": "Quem Somos",
         "order": 2
       },
@@ -1232,7 +1232,7 @@
     },
     "servicos.html": {
       "settings": {
-        "meta_descr": "Serviços oferecidos pela Obladi Comunicação.",
+        "meta_descr": "Serviços oferecidos pela Obladi Conteúdo.",
         "title": "O que fazemos",
         "order": 3
       },
@@ -1788,7 +1788,7 @@
     },
     "clientes.html": {
       "settings": {
-        "meta_descr": "Clientes da Obladi Comunicação.",
+        "meta_descr": "Clientes da Obladi Conteúdo.",
         "title": "Clientes",
         "order": 4
       },
