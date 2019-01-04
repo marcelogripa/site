@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site do Gripa v1",
-    "currentPage": "clientes.html",
+    "currentPage": "quem.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2305,7 +2305,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n<div>\n</div><div>Uma empresa com profissionais especializados em comunicação. Somos jornalistas, redatores, roteiristas, editores, designers e estamos prontos para impulsionar o seu negócio. Aqui você será sempre tratado com eficiência e criatividade.\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n<div>\n</div><div>Uma empresa com profissionais especializados em comunicação. Somos jornalistas, redatores, roteiristas, editores, designers e estamos prontos para impulsionar o seu negócio. Aqui você será sempre tratado com eficiência e criatividade.</div><div><br></div><div><b>Marcelo Gripa, fundador.&nbsp;</b>Jornalista com 12 anos de experiência em redações. Atuou nos mercados de marketing e tecnologia, tendo sido editor-chefe do site Adnews e, posteriormente, do site Olhar Digital, durante seis anos. Sob seu comando, este veículo tornou-se Case de Sucesso no Facebook, em 2015, pela integração bem-sucedida de conteúdos multiplataformas. Desde setembro de 2018, Gripa dedica-se a projetos de comunicação estratégica para empresas.</div><div>\n</div><div><br></div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rcBTMr1ejf",
           "_anchor": "content1-1q",
           "_protectedParams": [],
