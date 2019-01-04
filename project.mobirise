@@ -1123,7 +1123,7 @@
               "color": "#767676"
             },
             ".mbr-text DIV": {
-              "color": "#232323"
+              "color": "#465052"
             }
           },
           "_name": "content1",
@@ -1686,7 +1686,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#465052"
             }
           },
           "_name": "content6",
@@ -1714,7 +1714,8 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#465052",
+              "text-align": "right"
             }
           },
           "_name": "content7",
@@ -1742,7 +1743,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#465052"
             }
           },
           "_name": "content6",
@@ -2300,7 +2301,7 @@
               "color": "#767676"
             },
             ".mbr-text DIV": {
-              "color": "#232323"
+              "color": "#465052"
             }
           },
           "_name": "content1",
