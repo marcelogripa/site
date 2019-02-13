@@ -2865,6 +2865,43 @@ body {
   color: #465052;
   text-align: right;
 }
+.cid-rhYZvf4qlz {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rhYZvf4qlz .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rhYZvf4qlz .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rhYZvf4qlz .mbr-text {
+  color: #465052;
+}
+.cid-rhYZk96VcE {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rhYZk96VcE .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rhYZk96VcE .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rhYZk96VcE .mbr-text {
+  color: #465052;
+  text-align: right;
+}
 .cid-rebPFCM9IZ {
   padding-top: 45px;
   padding-bottom: 30px;
