@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Obladi Conteúdo",
-    "currentPage": "index.html",
+    "currentPage": "clientes.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,8 +43,8 @@
     ],
     "favicon": false,
     "noImageResize": "",
-    "uniqCompNum": 75,
-    "versionPublish": "4.12.0",
+    "uniqCompNum": 76,
+    "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "robotsSwitcher": false,
@@ -1141,7 +1141,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n<div>\n</div><div>Atuamos em todas as etapas de projetos de comunicação B2B e B2C, com foco tanto interno quanto externo: fazemos a curadoria, o planejamento e a produção de conteúdos para sites, redes sociais e outras plataformas. Acreditamos na força de vídeos, podcasts e textos bem produzidos. Entregamos as melhores soluções editoriais alinhadas com os objetivos de negócios dos nossos clientes.\n</div><div><br></div><div><br></div><div><b>Curadoria\n</b></div><div>\n<span style=\"font-size: 1rem;\">Identificar o que é relevante, contextualizar os fatos e encontrar os formatos mais adequados. A curadoria de conteúdo é essencial para marcas que buscam credibilidade. Não abrimos mão deste ativo importantíssimo.</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div><span style=\"font-size: 1rem;\"></span></div><div><b>Estratégia\n</b></div><div><span style=\"font-size: 1rem;\">Mapeamento das oportunidades; planejamento editorial; calendário de ações. A comunicação estratégica passa por estes pilares até chegar de forma bem-sucedida ao público-alvo. Mergulhamos no universo da sua empresa para buscar os melhores caminhos.</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>\n</div><div><span style=\"font-size: 1rem;\"><b>Produção de conteúdo\n</b></span></div><div>Boas histórias, quando bem contadas, trazem bons resultados. Marcas que reconhecem a importância de conteúdos cuidadosamente produzidos cativam o consumidor. Imprimimos esta visão apurada em todos os nossos trabalhos.\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n<div>\n</div><div>Atuamos em todas as etapas de projetos de comunicação B2B e B2C, com foco tanto interno quanto externo: fazemos a curadoria, o planejamento e a produção de conteúdos para sites, redes sociais e outras plataformas. Acreditamos na força de vídeos, podcasts e textos bem produzidos. Entregamos as melhores soluções editoriais alinhadas com os objetivos de negócios dos nossos clientes.</div><div><br></div><div><b>Curadoria\n</b></div><div>\n<span style=\"font-size: 1rem;\">Identificar o que é relevante, contextualizar os fatos e encontrar os formatos mais adequados. A curadoria de conteúdo é essencial para marcas que buscam credibilidade. Não abrimos mão deste ativo importantíssimo.</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div><span style=\"font-size: 1rem;\"></span></div><div><b>Estratégia\n</b></div><div><span style=\"font-size: 1rem;\">Mapeamento das oportunidades; planejamento editorial; calendário de ações. A comunicação estratégica passa por estes pilares até chegar de forma bem-sucedida ao público-alvo. Mergulhamos no universo da sua empresa para buscar os melhores caminhos.</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>\n</div><div><span style=\"font-size: 1rem;\"><b>Produção de conteúdo\n</b></span></div><div>Boas histórias, quando bem contadas, trazem bons resultados. Marcas que reconhecem a importância de conteúdos cuidadosamente produzidos cativam o consumidor. Imprimimos esta visão apurada em todos os nossos trabalhos.\n</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "raIiJvgLHk",
           "_anchor": "content1-y",
           "_protectedParams": [],
@@ -1691,6 +1691,37 @@
             "background-color": "@bgColor",
             "@media (min-width: 992px)": {
               ".mbr-figure": {
+                "padding-left": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-top": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#465052",
+              "text-align": "right"
+            }
+          },
+          "_name": "content7",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Neoway<br></b>Concepção, produção e apresentação do podcast da empresa (Bytes &amp; Business) sobre temas <br>relacionados à tecnologia e negócios.<br><b>Site: &nbsp;</b><a href=\"https://www.neoway.com.br/podcast\" target=\"_blank\">https://www.neoway.com.br/podcast</a><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <a href=\"https://www.neoway.com.br/podcast/\"><img src=\"@PROJECT_PATH@/assets/images/logo-neoway-436x410.png\" alt=\"Neoway\" title=\"Cliente da Obladi\"></a>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-23",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rYOENr3xsI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
                 "padding-right": "4rem"
               }
             },
@@ -1735,9 +1766,11 @@
             }
           },
           "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>BASF</b><br>ConnectTime: curadoria e produção de textos para podcast mensal da BASF dirigido a executivos de grandes empresas do País. Projeto em parceria com a agência Rapp Brasil, criadora do formato.\n<br><b>Site: &nbsp;</b><a href=\"https://www.basf.com/br\" target=\"_blank\">https://www.basf.com/br</a>&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <a href=\"https://www.basf.com/br\"><img src=\"@PROJECT_PATH@/assets/images/basf-400x400.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "raIsmv79P9",
-          "_anchor": "content7-19",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Stato<br></b>Curadoria e planejamento editorial <br>para reforçar o posicionamento estratégico da consultoria de transição de carreira.<br><b>Site: &nbsp;</b><a href=\"https://bit.ly/2MpK5Jl \" target=\"_blank\">https://www.statobr.com</a><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/logotipo-stato-2-436x298.jpg\" alt=\"Estapar\" title=\"Cliente da Obladi\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-22",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rt08wpl8ic",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1764,11 +1797,9 @@
             }
           },
           "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Estapar Estacionamentos<br></b>Produção de série de vídeos sobre o futuro da mobilidade urbana em grandes cidades brasileiras.&nbsp;<br><b>Site: &nbsp;</b><a href=\"https://bit.ly/2MpK5Jl \" target=\"_blank\">https://bit.ly/2MpK5Jl&nbsp;</a><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/estacionamento-estapar7-436x281.jpg\" alt=\"Estapar\" title=\"Cliente da Obladi\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content7-1x",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "rgsX3z3Iil",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>BASF</b><br>ConnectTime: curadoria e produção de textos para podcast mensal da BASF dirigido a executivos de grandes empresas do País. Projeto em parceria com a agência Rapp Brasil, criadora do formato.\n<br><b>Site: &nbsp;</b><a href=\"https://www.basf.com/br\" target=\"_blank\">https://www.basf.com/br</a>&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <a href=\"https://www.basf.com/br\"><img src=\"@PROJECT_PATH@/assets/images/basf-400x400.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "raIsmv79P9",
+          "_anchor": "content7-19",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1811,37 +1842,6 @@
             "background-color": "@bgColor",
             "@media (min-width: 992px)": {
               ".mbr-figure": {
-                "padding-left": "4rem"
-              }
-            },
-            "@media (max-width: 992px)": {
-              ".mbr-figure": {
-                "padding-top": "1rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#465052",
-              "text-align": "right"
-            }
-          },
-          "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Stato<br></b>Curadoria e planejamento editorial <br>para reforçar o posicionamento estratégico da consultoria de transição de carreira.<br><b>Site: &nbsp;</b><a href=\"https://bit.ly/2MpK5Jl \" target=\"_blank\">https://www.statobr.com</a><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/logotipo-stato-2-436x298.jpg\" alt=\"Estapar\" title=\"Cliente da Obladi\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content7-22",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "rt08wpl8ic",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "@media (min-width: 992px)": {
-              ".mbr-figure": {
                 "padding-right": "4rem"
               }
             },
@@ -1860,6 +1860,37 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rt08rHABTo",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-left": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-top": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#465052",
+              "text-align": "right"
+            }
+          },
+          "_name": "content7",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Estapar Estacionamentos<br></b>Produção de série de vídeos sobre o futuro da mobilidade urbana em grandes cidades brasileiras.&nbsp;<br><b>Site: &nbsp;</b><a href=\"https://bit.ly/2MpK5Jl \" target=\"_blank\">https://bit.ly/2MpK5Jl&nbsp;</a><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/estacionamento-estapar7-436x281.jpg\" alt=\"Estapar\" title=\"Cliente da Obladi\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1x",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rgsX3z3Iil",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
